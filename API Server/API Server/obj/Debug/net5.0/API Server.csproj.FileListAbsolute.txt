@@ -1,0 +1,59 @@
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\appsettings.Development.json
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\appsettings.json
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\API Server.exe
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\API Server.deps.json
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\API Server.runtimeconfig.json
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\API Server.runtimeconfig.dev.json
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\API Server.dll
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\ref\API Server.dll
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\API Server.pdb
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\obj\Debug\net5.0\API Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\obj\Debug\net5.0\API Server.AssemblyInfoInputs.cache
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\obj\Debug\net5.0\API Server.AssemblyInfo.cs
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\obj\Debug\net5.0\API Server.csproj.CoreCompileInputs.cache
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\obj\Debug\net5.0\API Server.MvcApplicationPartsAssemblyInfo.cache
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\obj\Debug\net5.0\staticwebassets\API Server.StaticWebAssets.Manifest.cache
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\obj\Debug\net5.0\staticwebassets\API Server.StaticWebAssets.xml
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\obj\Debug\net5.0\scopedcss\bundle\API Server.styles.css
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\obj\Debug\net5.0\API Server.RazorTargetAssemblyInfo.cache
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\obj\Debug\net5.0\API Server.csproj.CopyComplete
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\obj\Debug\net5.0\API Server.dll
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\obj\Debug\net5.0\ref\API Server.dll
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\obj\Debug\net5.0\API Server.pdb
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\obj\Debug\net5.0\API Server.genruntimeconfig.cache
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\Humanizer.dll
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\YanPershay\Education\Frontend projects\Fullstack Employee management portal\API Server\API Server\obj\Debug\net5.0\API Server.csproj.AssemblyReference.cache
